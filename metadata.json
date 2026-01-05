@@ -1,0 +1,8 @@
+{
+  "name": "Time2Book.me Clone",
+  "description": "A high-fidelity replication of the Time2Book.me landing page for fitness studio software, featuring responsive design and interactive elements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
